@@ -46,7 +46,7 @@ The purpose of the project is to demonstrate the design and implementation of a 
 ## Project Structure
 
 ```text
-oracle-sql-plsql-car-dealership/
+Oracle-Sql-Plsql-Car-Dealership
 ├── sql/
 │   ├── 01-schema.sql
 │   ├── 02-sample-data.sql
